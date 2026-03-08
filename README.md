@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="docs/qor-banner.png" alt="QOR" width="600" />
+<img width="1180" height="664" alt="image" src="https://github.com/user-attachments/assets/8bf543c6-775f-4c85-9a4e-178c1222a3b4" />
+
 </p>
 
-<h1 align="center">QOR — Self-Learning AGI System</h1>
+<h1 align="center">QORA — Self-Learning AGI System</h1>
 
 <p align="center">
   <strong>A brain that learns, remembers, reasons, sees, hears, speaks, and trades — all in one binary.</strong>
